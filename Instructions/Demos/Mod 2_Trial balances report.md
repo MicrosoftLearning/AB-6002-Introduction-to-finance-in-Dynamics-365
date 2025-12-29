@@ -1,5 +1,7 @@
 ## Module 2: Describe reporting and integration capabilities demo 1
 
+## Demo: Run Trial balances report
+
 In this demo, you will show the process of running the Trial balance report as a grid and then exporting it from Dynamics 365 Finance.
 
 1.  Go to **General ledger \> Inquiries and reports \> Trial balance**.
@@ -17,4 +19,5 @@ In this demo, you will show the process of running the Trial balance report as a
 9.  After the results display and you have reviewed the main report components, show the report **Export to Excel** functionality.
 10. Select the **Open in Microsoft Office** button in the Action pane, and then select **Export to Excel \> Trial balance**. Select **Download**. The file is generated and downloaded.
 11. Open the downloaded Excel file to view the trial balance data. Explain that this functionality opens the data that was previously filtered in the grid.
+
 
