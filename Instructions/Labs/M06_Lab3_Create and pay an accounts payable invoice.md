@@ -1,8 +1,22 @@
-Module 6: Describe accounts payables, accounts receivables, and credit and collections lab 1
+---
+lab:
+    title: 'Lab 3: Create and pay an account payables invoice'
+    module: 'Module 6: Describe accounts payables, accounts receivables, and credit and collections'
+---
 
-# Lab: Create and pay an account payables invoice
+# Module 6: Describe accounts payables, accounts receivables, and credit and collections
+
+## Lab 3: Create and pay an account payables invoice
+
+## Objectives
 
 In this lab, you’ll create and post an accounts payable invoice journal. Then you’ll create a vendor payment for the invoice in Dynamics 365 Finance.
+
+## Lab Setup
+
+- **Estimated Time**: 20 minutes
+
+## Tasks
 
 Open Dynamics 365 Finance. Change the company to **USMF** if you’re not already in this legal entity.
 
@@ -32,3 +46,4 @@ Open Dynamics 365 Finance. Change the company to **USMF** if you’re not alread
 23. Navigate to **Accounts payable** \> **Vendors** \> **All vendors**. Filter and select the vendor from the previous transaction. Select **Balance** in the Action bar under **Vendor** \> **Transactions** to view the vendor balance. Note the current vendor balance.
 24. From the vendor balance, select **Open transactions** to view the open vendor transactions. Select **Closed transactions** to view closed transactions, which will include paid invoices.
 25. Lastly, select **Settlement** \> **Undo settlement** in the same screen to view the settled transactions. The settlement from the posted vendor payment will be displayed. This settlement was automatically settled by creating the payment proposal with the marked vendor invoice.
+
