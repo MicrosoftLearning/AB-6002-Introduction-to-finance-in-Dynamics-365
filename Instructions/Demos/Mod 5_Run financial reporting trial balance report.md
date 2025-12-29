@@ -1,6 +1,6 @@
-Module 5: Describe general ledgers and cash and bank management demo 2
+## Module 5: Describe general ledgers and cash and bank management 
 
-# Demo: Run Financial reporting trial balance report
+## Demo: Run Financial reporting trial balance report
 
 In this demo, we want to show the process of running a trial balance report by using Financial reporting in Dynamics 365 Finance. We will show the voucher posting from the previous demo.
 
@@ -24,3 +24,4 @@ Open Dynamics 365 Finance. Change the company to **USMF** if you’re not alread
     -   Select the account line and drill down to the voucher transactions. Show the voucher created in the demo, “Describe general ledgers and cash and bank management.”
     -   Emphasize how users can navigate seamlessly from summarized financial data to the detailed voucher for transparency and audit purposes. Highlight the additional features of the report including **Report options** to filter, print, and export.
 7.  Close the report and summarize that Financial Reporter provides flexible, real-time visibility into ledger balances.
+
