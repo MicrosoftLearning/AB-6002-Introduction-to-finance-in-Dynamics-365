@@ -1,4 +1,6 @@
-Module 3: Demo – Number sequences
+## Module 3: Describe shared features
+
+## Demo: Number sequences
 
 Number sequences allow the system to create unique recognizable numbers for records in finance and operations apps without user intervention. Some examples of the types of sequences used include:
 
@@ -41,3 +43,4 @@ Summarize the session by indicating that setting up number sequences has many co
     -   Be readable and easily identifiable in lists.
 
 Number sequences are an integral part of finance and operations apps.
+
