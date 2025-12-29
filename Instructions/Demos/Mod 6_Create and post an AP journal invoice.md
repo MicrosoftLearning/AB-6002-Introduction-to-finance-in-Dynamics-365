@@ -1,6 +1,6 @@
-Module 6: Describe accounts payables, accounts receivables, and credit and collections 
+## Module 6: Describe accounts payables, accounts receivables, and credit and collections 
 
-# Demo: Create and post an AP invoice journal
+## Demo: Create and post an AP invoice journal
 
 In this demo, we explore the process of creating, posting, and viewing an AP invoice journal in Dynamics 365 Finance. Creating and posting an AP invoice journal records an expense and establishes a liability to the vendor. This process updates the general ledger and vendor account, ensuring accurate financial reporting and payment tracking.
 
@@ -20,3 +20,4 @@ Open Dynamics 365 Finance. Change the company to **USMF** if you’re not alread
     -   Explain that the **Sales tax group** defaults from the vendor account, and the **Item sales tax group** defaults from the main account that's specified in the **Offset account** field. Additionally, the system calculates the due date based on the terms of payment, and then the cash discount defaults from the vendor account.
 10. Select **Post** to post the journal. Highlight the functions to **Validate** or **Simulate posting** prior to posting that assists with validating the journal before posting.
     -   After posting, open **Voucher transactions** quickly to show and confirm that both sides of the journal reflect the expected financial dimensions from their respective sources.
+
