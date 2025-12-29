@@ -1,4 +1,4 @@
-Module 1: Describe the finance and operations apps demo
+## Module 1: Describe the finance and operations apps demo
 
 In this demo, you will explore navigation features in Dynamics 365 Finance.
 
@@ -18,3 +18,4 @@ In this demo, you will explore navigation features in Dynamics 365 Finance.
 6.  Clear the quick filter.
 7.  Select the column header for **Terms of Payment** and filter on **contains** **30**. Discuss the options that were available in addition to **Contains**. Show that almost the same results are displayed.
 8.  In preparation for the lab, display the **Customer credit and collections** page and explain the layout so learners understand the concepts of tiles and lists in a workspace.
+
