@@ -1,6 +1,6 @@
-Module 3: Describe shared features
+## Module 3: Describe shared features
 
-Demo: Set up an alert when a new vendor is created
+## Demo: Set up an alert when a new vendor is created
 
 In this demo, you will add an alert when a new vendor is created and show how the alert is triggered and then notifies you.
 
@@ -39,3 +39,4 @@ Are there other alerts that might make sense for an Accounts payable manager to 
 -   Payments (if not the one to approve)
 
 Inquiries and reports can provide historical information. Alerts are for when you want **immediate** notification, so do not overuse!
+
