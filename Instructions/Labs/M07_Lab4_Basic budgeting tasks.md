@@ -1,6 +1,22 @@
-Module 1: Basic budgeting
+---
+lab:
+    title: 'Lab 4: Basic budgeting tasks'
+    module: 'Module 7: Describe expense management, fixed asset management, and budgeting'
+---
+
+# Module 7: Describe expense management, fixed asset management, and budgeting
+
+## Lab 4: Basic budgeting tasks
+
+## Objectives
 
 In this lab, you will create budget register entries and approve them. Then you will run the budget-to-actuals report. We will work with January 2018 in legal entity USMF because it contains “actuals” data in this period to compare to our budget entries.
+
+## Lab Setup
+
+- **Estimated Time**: 20 minutes
+
+## Tasks
 
 1.  In the **Navigation** pane, select **Modules** \> **Budgeting** \> **Budget register entries**.
 2.  Select **New** in the Action pane.
@@ -44,3 +60,4 @@ When a full budget for the year is entered, it includes values for each period i
 ![](media/384ff5c2808c13b8de46ed662573bf90.png)
 
 ![](media/73abe92b14b69ace03abcb611a37007f.png)
+
