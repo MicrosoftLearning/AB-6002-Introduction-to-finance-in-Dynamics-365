@@ -1,9 +1,22 @@
-Module 5: Describe general ledgers and cash and bank management lab 1
+---
+lab:
+    title: 'Lab 2: Create and post a journal'
+    module: 'Module 5: Describe general ledgers and cash and bank management'
+---
 
-# Lab: Create and view a journal
+# Module 5: Describe general ledgers and cash and bank management
+
+## Lab 2: Create and post a journal
+
+## Objectives
 
 In this lab you will create, post, and view a journal in Dynamics 365 Finance. The purpose of a journal entry is to record a business transaction in an accounting book. You record journal entries in the ledger. You then use the ledger to create financial statements for the business.
 
+## Lab Setup
+
+- **Estimated Time**: 10 minutes
+
+## Tasks
 Open Dynamics 365 Finance. Change the company to **USMF** if you’re not already in this legal entity.
 
 1.  Go to **General ledger \> Journal entries \> General journals.**
@@ -21,3 +34,4 @@ Open Dynamics 365 Finance. Change the company to **USMF** if you’re not alread
 12. Explore the transaction you posted and its voucher transactions.
     -   Select **Voucher** to view the posted vouchers for the transactions. This will open the **Voucher transactions** screen. View the line details of the transactions that you previously selected in the posted journal.
     -   **Voucher transactions** is an inquiry page where you can select from various tables and fields to specify criteria for the balance or transaction that you're searching for. By default, the page shows the journal number, voucher, date, and main account, but you can add additional tables, fields, and criteria to narrow down your search.
+
