@@ -19,11 +19,12 @@ In this lab, you will create budget register entries and approve them. Then you 
 ## Tasks
 
 1.  In the **Navigation** pane, select **Modules** \> **Budgeting** \> **Budget register entries**.
-2.  Select **New** in the Action pane.
-3.  Select **FY2018** in the **Budget model** drop-down list.
-4.  Select **Original budget** in the **Budget code** drop-down list.
-5.  Select the **Add line** menu item in the **Budget account entries** FastTab.
-6.  Add the following entries.
+   ![Screenshot of budget register entries screen.](./media/445f541e8165ecfddd1f790cb8e2b4e2.png)
+3.  Select **New** in the Action pane.
+4.  Select **FY2018** in the **Budget model** drop-down list.
+5.  Select **Original budget** in the **Budget code** drop-down list.
+6.  Select the **Add line** menu item in the **Budget account entries** FastTab.
+7.  Add the following entries.
 
 | Date     | Account structure | Dimension values            | Amount    | Amount type | Currency | Comment                                          |
 |----------|-------------------|-----------------------------|-----------|-------------|----------|--------------------------------------------------|
@@ -47,17 +48,18 @@ When a full budget for the year is entered, it includes values for each period i
 
 # Reference screenshots
 
-![](media/445f541e8165ecfddd1f790cb8e2b4e2.png)
 
-![](media/5a2583bfa6060be2e5bee0085e16c5c1.png)
 
-![](media/fa0bc3673134ac3b6131f5a7b18293ae.png)
+![](./media/5a2583bfa6060be2e5bee0085e16c5c1.png)
 
-![](media/646ed85c833b122b200fbc7381bdd750.png)
+![](./media/fa0bc3673134ac3b6131f5a7b18293ae.png)
 
-![](media/431a6f948fef07027601ef14388cf8df.png)
+![](./media/646ed85c833b122b200fbc7381bdd750.png)
 
-![](media/384ff5c2808c13b8de46ed662573bf90.png)
+![](./media/431a6f948fef07027601ef14388cf8df.png)
 
-![](media/73abe92b14b69ace03abcb611a37007f.png)
+![](./media/384ff5c2808c13b8de46ed662573bf90.png)
+
+![](./media/73abe92b14b69ace03abcb611a37007f.png)
+
 
