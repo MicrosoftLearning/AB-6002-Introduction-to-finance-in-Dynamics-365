@@ -47,7 +47,7 @@ When a full budget for the year is entered, it includes values for each period i
 
 # Reference screenshots
 
-![](./media/445f541e8165ecfddd1f790cb8e2b4e2.png)
+![Screenshot of path to access budget register entries.](./media/445f541e8165ecfddd1f790cb8e2b4e2.png)
 
 
 ![](./media/5a2583bfa6060be2e5bee0085e16c5c1.png)
@@ -66,6 +66,7 @@ When a full budget for the year is entered, it includes values for each period i
 
 
 ![](./media/73abe92b14b69ace03abcb611a37007f.png)
+
 
 
 
