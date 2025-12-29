@@ -1,6 +1,6 @@
-Module 3: Describe shared features
+## Module 3: Describe shared features
 
-Demo: Attachment capabilities
+## Demo: Attachment capabilities
 
 In this demo, you will explore adding and viewing attachments.
 
@@ -37,3 +37,4 @@ Which documents in finance and operations apps would you expect to attach files 
 -   Email notifications of payments can be attached to the payment record.
 
 Some attachments that are created by finance and operations apps can be automatically placed on documents with customizations to remove the manual attachment.
+
