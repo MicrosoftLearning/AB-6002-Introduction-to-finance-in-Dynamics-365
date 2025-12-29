@@ -16,6 +16,8 @@ In this lab, you will create a filtered view and add it to a workspace. Your goa
 
 - **Estimated Time**: 10 minutes
 
+## Tasks
+
 1.  In the **Navigation pane**, select **Modules** \> **Accounts receivable** \> **Customers** \> **All customers**.
 2.  Right-click the **Account** column header.
 3.  Select **Insert column**. Add the column **Invoicing and delivery on hold (Confirmation, delivery and invoicing on hold)**. You can filter the **Field** column in the list to help locate this column.
@@ -48,6 +50,7 @@ In this lab, you will create a filtered view and add it to a workspace. Your goa
 14. Select the **Group 10 on hold** list. The list of customers displayed are those in group 10 and have a hold.
 15. Right-click the tile you created and select **Personalize**. Select **Pin to dashboard**. Select outside the **Personalize** box to close it.
 16. Select **Finance and Operations** in the title bar. Scroll though the tiles until you get to **Customer credit and collections**. The **Group 10 on hold** filter name is added to the dashboard, and the count appears on the line with the filter name.
+
 
 
 
