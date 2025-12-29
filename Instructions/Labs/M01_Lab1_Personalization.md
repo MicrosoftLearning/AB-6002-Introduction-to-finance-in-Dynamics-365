@@ -6,7 +6,7 @@ lab:
 
 # Module 1: Describe the Dynamics 365 finance and operations apps
 
-## Lab 1 - Personalize your workspace
+## Lab 1: Personalize your workspace
 
 ## Objectives
 
@@ -48,5 +48,6 @@ In this lab, you will create a filtered view and add it to a workspace. Your goa
 14. Select the **Group 10 on hold** list. The list of customers displayed are those in group 10 and have a hold.
 15. Right-click the tile you created and select **Personalize**. Select **Pin to dashboard**. Select outside the **Personalize** box to close it.
 16. Select **Finance and Operations** in the title bar. Scroll though the tiles until you get to **Customer credit and collections**. The **Group 10 on hold** filter name is added to the dashboard, and the count appears on the line with the filter name.
+
 
 
