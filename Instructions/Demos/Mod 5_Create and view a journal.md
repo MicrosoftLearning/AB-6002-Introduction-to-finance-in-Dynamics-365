@@ -1,6 +1,6 @@
-Module 5: Describe general ledgers and cash and bank management demo 1
+## Module 5: Describe general ledgers and cash and bank management
 
-# Demo: Create and view a journal
+## Demo: Create and view a journal
 
 In this demo, we want to show the process of creating, posting, and viewing a journal in Dynamics 365 Finance. The purpose of a journal entry is to record a business transaction in an accounting book. You record journal entries in the ledger. You then use the ledger to create financial statements for the business.
 
@@ -26,3 +26,4 @@ Open Dynamics 365 Finance. Change the company to **USMF** if you’re not alread
     -   **Voucher transactions** is an inquiry page where you can select from various tables and fields to specify criteria for the balance or transaction that you're searching for. By default, the page shows the journal number, voucher, date, and main account, but you can add additional tables, fields, and criteria to narrow down your search.
 10. While still on the **Voucher transactions** screen, select **Accounting source explorer**.
     -   View the posted voucher and briefly highlight that this page can be used for detailed analysis of the source information behind general ledger accounting entries.
+
