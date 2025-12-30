@@ -54,6 +54,7 @@ In this lab, you will create budget register entries and approve them. Then you 
 
 ![Screenshot ofMA+BU+DEPT+CC selected as financial dimension set.](./Media/73abe92b14b69ace03abcb611a37007f.png)
 
+
 10.  Select **FY2018** as the **Budget model.**
 11.  Select **1/1/2018** as the **Start date** and **1/31/2018** as the **End date**.
 12.  Leave other fields with default values and select **Apply parameters** in the Action pane.
@@ -62,14 +63,6 @@ In this lab, you will create budget register entries and approve them. Then you 
 ### Summary
 
 When a full budget for the year is entered, it includes values for each period in the fiscal year. Throughout the year, the budget-to-actuals report can be run to examine how closely the actuals match the budget. When they don’t match, you should either update the budget or adjust the actuals by lowering expenses or raising revenue. The budget-to-actuals report provides a high-level view to begin the analysis of the variance. Creating a budget and periodically running the budget-to-actuals report helps a company stay on track throughout the fiscal year, adjusting budget numbers or processes so the budget and actuals align with expectations.
-
-
-
-
-
-
-
-
 
 
 
