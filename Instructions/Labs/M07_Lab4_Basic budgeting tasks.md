@@ -22,46 +22,47 @@ In this lab, you will create budget register entries and approve them. Then you 
 
 ![Screenshot of path to access budget register entries.](./Media/445f541e8165ecfddd1f790cb8e2b4e2.png)
 
-1.  Select **New** in the Action pane.
-1.  Select **FY2018** in the **Budget model** drop-down list.
+2.  Select **New** in the Action pane.
+3.  Select **FY2018** in the **Budget model** drop-down list.
 
 ![Screenshot of Budget model with FY2028 selected.](./Media/5a2583bfa6060be2e5bee0085e16c5c1.png)
 
-1.  Select **Original budget** in the **Budget code** drop-down list.
+4.  Select **Original budget** in the **Budget code** drop-down list.
 
 ![Screenshot of Original budget selected.](./Media/fa0bc3673134ac3b6131f5a7b18293ae.png)
 
-1.  Select the **Add line** menu item in the **Budget account entries** FastTab.
-1.  Add the following entries.
+5.  Select the **Add line** menu item in the **Budget account entries** FastTab.
+6.  Add the following entries:
 
 | Date     | Account structure | Dimension values            | Amount    | Amount type | Currency | Comment                                          |
 |----------|-------------------|-----------------------------|-----------|-------------|----------|--------------------------------------------------|
-| 1/1/2018 | Manufacturing B/S | 140100-002-023              | 1,000.00  |             | USD      | Onhand inventory for production at start of year |
-| 1/1/2018 | Manufacturing B/S | 140200-002-023              | 5,000.00  |             | USD      | Onhand finished goods at start of year           |
+| 1/1/2018 | Manufacturing B/S | 140100-002-023              | 1,000.00  | Expense     | USD      | Onhand inventory for production at start of year |
+| 1/1/2018 | Manufacturing B/S | 140200-002-023              | 5,000.00  | Expense     | USD      | Onhand finished goods at start of year           |
 | 1/1/2018 | Manufacturing P/L | 401100-001-023-010-TV&Video | 40,000.00 | Revenue     | USD      | TV Sales                                         |
 | 1/1/2018 | Manufacturing P/L | 601200-001-023-010-TV&Video | 5,000.00  | Expense     | USD      |                                                  |
 | 1/1/2018 | Manufacturing P/L | 500100-001-023-010-TV&Video | 10,500.00 | Expense     | USD      |                                                  |
 
-1.  Select **Update budget balances** in the Action pane at the top of the page. Leave the defaults and select OK. An **Operation completed** message should appear. These budget entries are no longer in draft mode and are considered your January 2018 budget. Notice how the status is changed to **Completed** in the upper right of the page.
+7.  Select **Update budget balances** in the Action pane at the top of the page. Leave the defaults and select **Update**. An **Operation completed** message should appear. These budget entries are no longer in draft mode and are considered your January 2018 budget. Notice how the status is changed to **Completed** in the upper right of the page.
 
 ![Screenshot of budget register entry completed.](./Media/646ed85c833b122b200fbc7381bdd750.png)
 
-1.  In the **Navigation** pane, select **Modules** \> **Budgeting** \> **Inquiries and reports** \> **Basic budgeting** \> **Actual vs. budget**.
+8.  In the **Navigation** pane, select **Modules** \> **Budgeting** \> **Inquiries and reports** \> **Basic budgeting** \> **Actual vs. budget**.
 
 ![Screenshot of actual vs budget navigation option.](./Media/384ff5c2808c13b8de46ed662573bf90.png)
 
-1.  Select **MA+BU+DEPT+CC** for the **Financial dimension set**.
+9.  Select **MA+BU+DEPT+CC** for the **Financial dimension set**.
 
 ![Screenshot ofMA+BU+DEPT+CC selected as financial dimension set.](./Media/73abe92b14b69ace03abcb611a37007f.png)
 
-1.  Select **FY2018** as the **Budget model.**
-1.  Select **1/1/2018** as the **Start date** and **1/31/18** as the **End date**.
-1.  Leave other fields with default values and select **Apply parameters** in the Action pane.
-1.  Review the report. Notice that two accounts had actuals for which you did not enter budget lines. The budget column is zero for those accounts. The accounts you entered budget in are showing in the Budget column with the amounts you entered.
+10.  Select **FY2018** as the **Budget model.**
+11.  Select **1/1/2018** as the **Start date** and **1/31/2018** as the **End date**.
+12.  Leave other fields with default values and select **Apply parameters** in the Action pane.
+13.  Review the report. Notice that two accounts had actuals for which you did not enter budget lines. The budget column is zero for those accounts. The accounts you entered budget in are showing in the Budget column with the amounts you entered.
 
 ### Summary
 
 When a full budget for the year is entered, it includes values for each period in the fiscal year. Throughout the year, the budget-to-actuals report can be run to examine how closely the actuals match the budget. When they don’t match, you should either update the budget or adjust the actuals by lowering expenses or raising revenue. The budget-to-actuals report provides a high-level view to begin the analysis of the variance. Creating a budget and periodically running the budget-to-actuals report helps a company stay on track throughout the fiscal year, adjusting budget numbers or processes so the budget and actuals align with expectations.
+
 
 
 
