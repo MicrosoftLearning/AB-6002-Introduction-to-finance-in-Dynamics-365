@@ -1,12 +1,17 @@
 # AB-6002: Introduction to finance in Dynamics 365
 <!-- Change the title above as appropriate -->
 
-<!-- Review the notes in the index.md file to set up the repo for GitHub Pages -->
-
 This repo contains exercises and supporting files for Microsoft skilling content.
 
 The exercises may be used in both self-paced skilling experiences on [Microsoft Learn](https://learn.microsoft.com) and in Microsoft authorized instructor-led training.
 <!-- Update the paragraph above with a link to a specific Learning Path or course as appropriate -->
+
+## GitHub Pages
+
+Lab exercises are published to GitHub Pages. To view them, visit:
+**https://microsoftlearning.github.io/AB-6002-Introduction-to-finance-in-Dynamics-365/**
+
+For more information about the GitHub Pages setup, see [GITHUB_PAGES.md](GITHUB_PAGES.md).
 
 ## Information for MCTs
 <!-- You can remove this section if the exercises will not be used to support Microsoft Official Curriculum ILT -->
