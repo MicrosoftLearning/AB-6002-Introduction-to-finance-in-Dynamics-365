@@ -1,12 +1,12 @@
 ---
 lab:
-    title: 'Lab 4: Basic budgeting tasks'
+    title: 'Lab 4: Create budget register entries and approve them'
     module: 'Module 7: Describe expense management, fixed asset management, and budgeting'
 ---
 
 # Module 7: Describe expense management, fixed asset management, and budgeting
 
-## Lab 4: Basic budgeting tasks
+## Lab 4: Create budget register entries and approve them
 
 ## Objectives
 
@@ -63,6 +63,7 @@ In this lab, you will create budget register entries and approve them. Then you 
 ### Summary
 
 When a full budget for the year is entered, it includes values for each period in the fiscal year. Throughout the year, the budget-to-actuals report can be run to examine how closely the actuals match the budget. When they don’t match, you should either update the budget or adjust the actuals by lowering expenses or raising revenue. The budget-to-actuals report provides a high-level view to begin the analysis of the variance. Creating a budget and periodically running the budget-to-actuals report helps a company stay on track throughout the fiscal year, adjusting budget numbers or processes so the budget and actuals align with expectations.
+
 
 
 
