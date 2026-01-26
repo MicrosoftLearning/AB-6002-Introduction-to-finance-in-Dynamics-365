@@ -44,8 +44,10 @@ Open Dynamics 365 Finance. Change the company to **USMF** if you’re not alread
 21. Select the **Method of payment** for the line as type **ELECTRONIC** to post the journal without generating payments or checks for this example.
 22. Post the journal.
 23. Navigate to **Accounts payable** \> **Vendors** \> **All vendors**. Filter and select the vendor from the previous transaction. Select **Balance** in the Action bar under **Vendor** \> **Transactions** to view the vendor balance. Note the current vendor balance.
-24. From the vendor balance, select **Open transactions** to view the open vendor transactions. Select **Closed transactions** to view closed transactions, which will include paid invoices.
-25. Lastly, select **Settlement** \> **Undo settlement** in the same screen to view the settled transactions. The settlement from the posted vendor payment will be displayed. This settlement was automatically settled by creating the payment proposal with the marked vendor invoice.
+24. From the vendor balance, select **Open transactions** to view the open vendor transactions.
+25. Select the back button twice to return to the **All vendors** page.
+26. Then select **Invoice** \>**Settle** \> **Undo settlement** to view the settled transactions
+
 
 
 
