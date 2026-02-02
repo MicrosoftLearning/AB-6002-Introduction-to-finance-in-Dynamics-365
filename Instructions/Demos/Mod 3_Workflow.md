@@ -1,4 +1,4 @@
-# orkflow summary
+# Workflow summary
 
 **Preparation:**
 
@@ -47,3 +47,4 @@ I can see who has the **Accounting manager** role by looking at the **Assign use
 **Summary**
 
 This is a very simple workflow with just one stepthe approval of the general journal. Some workflows take branches, run parallel steps, stop for manual stepsthey can be very complex. When you look at the amount of information stored for this simple workflow, consider what the history would look like for a more complex workflow. **Summary by Copilot** will quickly bring you up to speed on exactly what happened with the workflownd the **Copilot Sidecar** can help you understand exactly what caused this error.
+
