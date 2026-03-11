@@ -1,7 +1,14 @@
 ---
 lab:
-    title: 'Lab 4: Create budget register entries and approve them'
-    module: 'Module 7: Describe expense management, fixed asset management, and budgeting'
+  title: 'Lab 4: Create budget register entries and approve them'
+  module: 'Module 7: Describe expense management, fixed asset management, and budgeting'
+  description: In this lab, you will create budget register entries and approve them.
+    Then you will run the budget-to-actuals report. We will work with January 2018
+    in legal entity USMF because it contains “actuals” data in this period to compare
+    to our budget entries.
+  duration: 20 minutes
+  level: 100
+  islab: true
 ---
 
 # Module 7: Describe expense management, fixed asset management, and budgeting
