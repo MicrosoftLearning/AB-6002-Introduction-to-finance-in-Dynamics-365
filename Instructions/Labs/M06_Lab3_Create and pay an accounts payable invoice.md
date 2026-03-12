@@ -1,7 +1,13 @@
 ---
 lab:
-    title: 'Lab 3: Create and pay an account payables invoice'
-    module: 'Module 6: Describe accounts payables, accounts receivables, and credit and collections'
+  title: 'Lab 3: Create and pay an account payables invoice'
+  module: 'Module 6: Describe accounts payables, accounts receivables, and credit and collections'
+  description: In this lab, you’ll create and post an accounts payable invoice journal. Then you’ll create a vendor payment for the invoice in Dynamics 365 Finance.
+  duration: 20 minutes
+  level: 100
+  islab: true
+  primarytopics:
+    - Dynamics 365
 ---
 
 # Module 6: Describe accounts payables, accounts receivables, and credit and collections

@@ -1,7 +1,13 @@
 ---
 lab:
-    title: 'Lab 2: Create and post a journal'
-    module: 'Module 5: Describe general ledgers and cash and bank management'
+  title: 'Lab 2: Create and post a journal'
+  module: 'Module 5: Describe general ledgers and cash and bank management'
+  description: In this lab you will create, post, and view a journal in Dynamics 365 Finance. The purpose of a journal entry is to record a business transaction in an accounting book. You record journal entries in the ledger. You then use the ledger to create financial statements for the business.
+  duration: 10 minutes
+  level: 100
+  islab: true
+  primarytopics:
+    - Dynamics 365
 ---
 
 # Module 5: Describe general ledgers and cash and bank management

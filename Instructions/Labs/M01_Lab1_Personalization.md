@@ -1,7 +1,11 @@
 ---
 lab:
-    title: 'Lab 1: Personalize your workspace'
-    module: 'Module 1: Describe the finance and operations apps'
+  title: 'Lab 1: Personalize your workspace'
+  module: 'Module 1: Describe the finance and operations apps'
+  description: In this lab, you will create a filtered view and add it to a workspace. Your goal is to have easy access to customers who are on hold.
+  duration: 10 minutes
+  level: 100
+  islab: true
 ---
 
 # Module 1: Describe the Dynamics 365 finance and operations apps
